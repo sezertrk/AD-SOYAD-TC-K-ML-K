@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AD SOYAD TC KİMLİK", "AD SOYAD TC KİMLİK\AD SOYAD TC KİMLİK.csproj", "{B45570DD-614E-489B-AB40-1805BB39A073}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B45570DD-614E-489B-AB40-1805BB39A073}.Debug|x86.ActiveCfg = Debug|x86
+		{B45570DD-614E-489B-AB40-1805BB39A073}.Debug|x86.Build.0 = Debug|x86
+		{B45570DD-614E-489B-AB40-1805BB39A073}.Release|x86.ActiveCfg = Release|x86
+		{B45570DD-614E-489B-AB40-1805BB39A073}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
